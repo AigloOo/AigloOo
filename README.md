@@ -1,8 +1,6 @@
 <p><img align="center" src="https://raw.githubusercontent.com/AigloOo/AigloOo/main/Heyyy%20.png" alt="aiglooo" /></p>
 
 
-<h1 align="center">Heyy 👋, I'm Aiglo</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiglooo&label=Profile%20views&color=0e75b6&style=flat" alt="aiglooo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aiglo_" target="blank"><img src="https://img.shields.io/twitter/follow/aiglo_?logo=twitter&style=for-the-badge" alt="aiglo_" /></a> </p>
