@@ -1,5 +1,7 @@
+<p><img align="center" src="https://raw.githubusercontent.com/AigloOo/AigloOo/main/Heyyy%20.png" alt="aiglooo" /></p>
+
+
 <h1 align="center">Heyy 👋, I'm Aiglo</h1>
-<h3 align="center">A passionate frontend developer from France 🥖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiglooo&label=Profile%20views&color=0e75b6&style=flat" alt="aiglooo" /> </p>
 
