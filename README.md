@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AigloOo](https://github.com/AigloOo)
 
-- 💬 Ask me about **What you want**
+- 💬 Ask me about **my history**
 
-- 📫 How to reach me **Now just disocrd : aiglo And an email soon ...**
+- 📫 How to reach me **discord dm : aiglo**
 
 - 📄 Know about my experiences [i'm Beginner](i'm Beginner)
 
