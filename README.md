@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ro-board](ro-board.com)
 
-- 🌱 I’m currently learning **Back End**
+- 🌱 I’m currently learning **TaillwinCss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AigloOo](https://github.com/AigloOo)
 
