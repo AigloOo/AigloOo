@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Je travaille actuellement sur [ro-board](ro-board.com)<br><br> - 🌱 J'apprends actuellement **Tailwind CSS**<br><br> - Et [mon portfolio](À venir très bientôt ..)<br><br> - 👨‍💻 Tous mes projets sont disponibles sur coming sooo...(À venir très bientôt ..)<br><br> - 📫 Comment me contacter **À venir très bientôt ..**<br><br> - 📄 En savoir plus sur mes expériences [À venir très bientôt ..](À venir très bientôt ..)<br><br> - ⚡ Fait amusant **J'adore Noël**
+- 🔭 Je travaille actuellement sur [ro-board](ro-board.com)<br><br> - 🌱 J'apprends actuellement **Tailwind CSS**<br><br> - Et mon portfolio (À venir très bientôt ..)<br><br> - 👨‍💻 Tous mes projets sont disponibles sur (À venir très bientôt ..)<br><br> - 📫 Comment me contacter **À venir très bientôt ..**<br><br> - 📄 En savoir plus sur mes expériences (À venir très bientôt ..)<br><br> - ⚡ Fait amusant **J'adore Noël**
 
 
 ## 🌐 Socials:
