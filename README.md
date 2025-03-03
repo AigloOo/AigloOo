@@ -91,9 +91,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-jean--winter.fr-blue?style=for-the-badge)](https://insantdoc.tech)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-baldev.jean--winter.fr-green?style=for-the-badge)](https://jean-winter.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-@AigloOo-181717?style=for-the-badge&logo=github)](https://github.com/AigloOo)
+[![Email](https://img.shields.io/badge/Email-contact%40jean--winter.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jean-winter.fr)
 
 </div>
 
