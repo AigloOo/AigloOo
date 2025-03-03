@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jean--winter.fr-blue?style=for-the-badge)](https://jean-winter.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-AigloOo-181717?style=for-the-badge&logo=github)](https://github.com/AigloOo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Winterhalter-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jean-winterhalter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Winterhalter-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jean-winter/)
 
 </div>
 
@@ -91,8 +91,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-jean--winter.fr-blue?style=for-the-badge)](https://jean-winter.fr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-baldev.jean--winter.fr-green?style=for-the-badge)](https://baldev.jean-winter.fr)
+[![Website](https://img.shields.io/badge/Website-jean--winter.fr-blue?style=for-the-badge)](https://insantdoc.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-baldev.jean--winter.fr-green?style=for-the-badge)](https://jean-winter.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-@AigloOo-181717?style=for-the-badge&logo=github)](https://github.com/AigloOo)
 
 </div>
