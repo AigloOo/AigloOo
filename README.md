@@ -91,13 +91,22 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AigloOo&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AigloOo&layout=compact&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AigloOo&theme=dracula)
+![Profile Views](https://komarev.com/ghpvc/?username=AigloOo&color=blueviolet&style=flat-square)
+
+### 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AigloOo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AigloOo&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ## 📫 Contact
 
 <div align="center">
-
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-baldev.jean--winter.fr-green?style=for-the-badge)](https://jean-winter.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-@AigloOo-181717?style=for-the-badge&logo=github)](https://github.com/AigloOo)
