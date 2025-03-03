@@ -49,31 +49,31 @@
 <tr>
 <td><a href="https://docs.jean-winter.fr">📚 Docs</a></td>
 <td>Documentation technique</td>
-<td><code>React</code> <code>Vite</code></td>
+<td><code>React</code> <code>Next</code> <code>Electron.Js</code> <code>TailwindCss</code></td>
 <td>✅ En ligne</td>
 </tr>
 <tr>
 <td><a href="https://jean-winter.fr">🎨 Portfolio</a></td>
 <td>Portfolio professionnel</td>
-<td><code>React</code> <code>Tailwind</code></td>
+<td><code>React</code> <code>Tailwind</code> <code>Next.js</code></td>
 <td>✅ En ligne</td>
 </tr>
 <tr>
 <td>Viewme</td>
 <td>Application interactive</td>
-<td><code>React</code> <code>Node.js</code></td>
+<td><code>React</code> <code>TailwindsCss</code></td>
 <td>🔴 Hors ligne</td>
 </tr>
 <tr>
 <td>ro-board</td>
 <td>Application web</td>
-<td><code>Vue</code> <code>Express</code></td>
+<td><code>React</code> <code>NextJs</code> <code>Scss</code></td>
 <td>🔴 Hors ligne</td>
 </tr>
 <tr>
 <td>baldev</td>
 <td>Application de gestion</td>
-<td><code>React</code> <code>Node.js</code></td>
+<td><code>En reconstruction</code></td>
 <td>🔴 Hors ligne</td>
 </tr>
 </table>
