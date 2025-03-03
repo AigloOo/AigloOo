@@ -89,18 +89,20 @@
 
 <div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AigloOo&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AigloOo&layout=compact&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AigloOo&theme=dracula)
-![Profile Views](https://komarev.com/ghpvc/?username=AigloOo&color=blueviolet&style=flat-square)
+### 📈 GitHub Stats
 
-### 📈 Contribution Graph
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AigloOo&show_icons=true&theme=dark&title_color=10b981&icon_color=10b981)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AigloOo&layout=compact&theme=dark&title_color=10b981)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AigloOo&theme=dark&ring=10b981&fire=10b981&currStreakLabel=10b981)
+![Profile Views](https://komarev.com/ghpvc/?username=AigloOo&color=10b981&style=flat-square)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AigloOo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AigloOo&theme=github-dark&color=10b981&line=10b981&point=10b981&area=true&area_color=10b981)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AigloOo&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AigloOo&theme=dark&column=7&no-frame=true&title_color=10b981)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
