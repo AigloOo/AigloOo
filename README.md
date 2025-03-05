@@ -100,6 +100,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AigloOo&theme=github-dark&color=10b981&line=10b981&point=10b981&area=true&area_color=10b981)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AigloOo&theme=dark&column=7&no-frame=true&title_color=10b981)](https://github.com/ryo-ma/github-profile-trophy)
