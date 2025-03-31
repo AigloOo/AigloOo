@@ -94,7 +94,6 @@
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AigloOo&show_icons=true&theme=dark&title_color=10b981&icon_color=10b981)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AigloOo&layout=compact&theme=dark&title_color=10b981)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AigloOo&theme=dark&ring=10b981&fire=10b981&currStreakLabel=10b981)
-<img src="https://widgetbite.com/stats/AigloOo" alt="watching_count" />
 
 ### 📊 Contribution Graph
 
